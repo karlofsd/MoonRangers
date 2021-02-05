@@ -2,7 +2,7 @@
 
 ## Conocenos
 
-    <Descripción>
+This is the best team in the history of the best teams!
 
 ## Miembros
 
