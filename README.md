@@ -19,7 +19,6 @@
 | Juan Castro         | [juancastro02](http:....)       | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Lianel Artiles      | [larts85](http:....)            | [imadev](http:....)   | [masajelasmanos](https://www.instagram.com/masajelasmanos) | [lianelartiles](https://larts85.github.io/lianelartiles) |
 | **INTEGRANTE**      | **GITHUB**                      | **LINKEDIN**          | **INSTAGRAM**                                              | **PORTAFOLIO**                                           |
-|  |
 
 ## Skills
 
