@@ -10,7 +10,7 @@ This is the best team in the history of the best teams!
 | ------------------- | ------------------------------- | --------------------- | ---------------------------------------------------------- | -------------------------------------------------------- |
 | Joana Faro          | [FaroJoana](http:....)          | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Karlo Soberón       | [Github](http:....)             | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
-| Andrés Sanchez      | [Github](http:....)             | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
+| Andrés Sanchez      | [andres10sa](http:....)         | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Hernan Rojas        | [HernanSsj](http:....)          | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Agustin Collante    | [Github](http:....)             | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
 | Cristobal Carrasco  | [Github](http:....)             | [Linkedin](http:....) | [Instagram](http:....)                                     | [Portfolio](http:....)                                   |
